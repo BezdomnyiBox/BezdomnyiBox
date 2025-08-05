@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there! I'm Volodya
 
-<!--
-**BezdomnyiBox/BezdomnyiBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and tech enthusiast, always exploring new ideas and building cool things.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on interesting personal and collaborative projects.
+- 🌱 Learning new technologies every day.
+- 💬 Ask me about development, open-source, and anything tech-related.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect!
+- 💼 [HH.ru](https://vladivostok.hh.ru/resume/4f7e2fceff09cc13af0039ed1f6261486c3437?hhtmFrom=resume_list) – My professional resume
+- 💬 [Telegram](https://t.me/BojooYkt) – Chat with me directly
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
