@@ -1,7 +1,7 @@
 ## 👋 Привет! Я Володя — fullstack-разработчик
 
 Делаю веб-сервисы под реальные бизнес-задачи: CRM, личные кабинеты, сервисы заказов и автоматизацию процессов.
-Работаю с бэкендом на **PHP (Symfony)** и **Python (FastAPI)**, фронтендом на **React + TypeScript**, разворачиваю всё в **Docker**.
+Работаю с бэкендом на **PHP (Symfony)** , фронтендом на **React + TypeScript**
 
 📫 [Резюме на HH.ru](https://vladivostok.hh.ru/resume/4f7e2fceff09cc13af0039ed1f6261486c3437?hhtmFrom=resume_list) · [Telegram](https://t.me/BojooYkt)
 
