@@ -12,7 +12,6 @@
 | Проект | Что это | Стек |
 |---|---|---|
 | [**zapchasti**](https://github.com/BezdomnyiBox/zapchasti) | Сервис заказа и доставки автозапчастей: каталог, корзина, заявки на подбор, кабинеты клиента, курьера и перевозчика, админка | FastAPI, SQLAlchemy, PostgreSQL, Redis, MinIO, React, TS, Docker, CI/CD |
-| [**franchising-client**](https://github.com/BezdomnyiBox/franchising-client) | SPA для менеджера пункта выдачи франшизы: оформление и ведение заказов | React 19, TypeScript, Tailwind v4, shadcn/ui, TanStack Query, Zod |
 | [**crm-platform**](https://github.com/BezdomnyiBox/crm-platform) | Каркас CRM с настраиваемыми типами сущностей и атрибутами *(в разработке)* | Symfony 7, Doctrine, PostgreSQL, Docker, Kubernetes |
 | [**forum**](https://github.com/BezdomnyiBox/forum) | Форум на чистом PHP с окружением LEMP | PHP, MySQL, nginx, docker-compose |
 
